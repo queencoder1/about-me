@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+}
+h1{color: #A64AC9;}
+.button {
+    text-decoration: none;
+    text-decoration-color: color #A64AC9;
+    border-radius: 5px;
+    border: 2px solid #A64AC9;
+    padding: 6px; 
+    margin: 20px auto;
+}
+
+#container {
+    background-color: white; 
+    color: black; 
+    width: 50%;
+    margin: 10px auto;
+    padding: 10px;
+    font-family: 'Asap', sans-serif;
+    /* The content is where the text appears, the padding is the space around the content from the content to the border, and the margin is the space beyond border */
+    
+}
+.left-col {
+    float: left; width: 50%;
+    
+}
+.right-col {
+    float: right; width: 50%;
+    
+}
+.clearFix { clear:both; }
+
+.selfie{
+    width: 50%;
+}
+
+.clearFix { clear:both; }
+
+
+
+    
+
